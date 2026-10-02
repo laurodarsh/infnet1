@@ -1,6 +1,8 @@
 def somar(a, b):
     return a + b
 
+def subtrair(a, b):
+    return a - b
 
 if __name__ == "__main__":
     num1 = float(input("Digite o primeiro número: "))
